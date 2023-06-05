@@ -1,0 +1,13 @@
+.quantity-area {
+  margin: auto;
+  height: 40px;
+  width: 40%;
+}
+
+.MuiTextField-root .MuiInputBase-root {
+  border-radius: 0px;
+}
+
+.MuiInputBase-input {
+  text-align: center;
+}
